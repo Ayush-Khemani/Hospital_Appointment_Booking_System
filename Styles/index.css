@@ -1,0 +1,20 @@
+.care-about-you{
+    background: linear-gradient(89.8deg, rgb(39, 115, 255) 4.3%, rgb(62, 211, 232) 101.4%);
+    text-transform: capitalize;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4.3rem;
+    font-size: xx-large;
+}
+.stats {
+    margin-top: auto;
+    background: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+    text-transform: capitalize;
+    color: black;
+}
+
+footer {
+    background: linear-gradient(180.3deg, rgb(221, 221, 221) 5.5%, rgb(110, 136, 161) 90.2%);
+}
